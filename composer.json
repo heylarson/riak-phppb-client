@@ -37,7 +37,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/christophermancini/php-protobuf"
+      "url": "https://github.com/serggp/php-protobuf.git"
     },
     {
       "type": "package",
@@ -56,7 +56,7 @@
     "php": ">=5.5",
     "ext-json": "*",
     "ext-curl": "*",
-    "allegro/protobuf": "dev-master"
+    "allegro/php-protobuf": "dev-master"
   },
   "require-dev": {
     "basho/riak_pb": "2.1.*",
