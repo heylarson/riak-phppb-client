@@ -56,7 +56,7 @@
     "php": ">=5.5",
     "ext-json": "*",
     "ext-curl": "*",
-    "allegro/php-protobuf": "dev-master"
+    "allegro/protobuf": "dev-master"
   },
   "require-dev": {
     "basho/riak_pb": "2.1.*",
